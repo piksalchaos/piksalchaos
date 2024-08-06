@@ -1,6 +1,8 @@
-## Hellooooo ✨
 
-I'm Justin! I'm a high school junior with a passion for art and computer science.
+
+<h1 align="center">Hellooooo ✨</h1>
+
+### I'm Justin! I'm a high school junior with a passion for art and computer science.
 
 - learn more about me on [my website!](https://piksalchaos.github.io/)
 - see my games on [itch.io!!](https://piksal.itch.io/)
