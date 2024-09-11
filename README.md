@@ -8,4 +8,3 @@
 - see my games on [itch.io!!](https://piksal.itch.io/)
 - follow me on [insta](https://www.instagram.com/piksal.chaos/) (I'm super inactive)
 - see my projects and old animations on [youtube!](https://www.youtube.com/@piksalchaos) (I'm also inactive here lol)
-![😎](chillin.png)
